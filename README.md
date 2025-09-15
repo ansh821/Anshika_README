@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, and Data Science projects.**
 
-- 🌱 I’m currently learning **Advanced AI, Cloud Computing, and Full Stack Development.**
+- 🌱 I’m currently learning **Deployments Using APIs ,Power BI,Data Analysis and so on.**
 
 - 👯 I’m looking to collaborate on **AI/ML projects, Open Source, and Real-World Data Science problems.**
 
