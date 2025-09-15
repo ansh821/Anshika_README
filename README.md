@@ -34,18 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshikachauhan&show_icons=true&locale=en" alt="anshikachauhan" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshikachauhan" alt="anshikachauhan" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshikachauhan&layout=compact" alt="anshikachauhan" />
-</p>
-
----
-
 ## 🔗 Connect with me:
 
 <p align="left">
